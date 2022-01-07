@@ -15,7 +15,11 @@ class Certificate extends StatelessWidget {
                 SizedBox(
                   width: 20,
                 ),
-                Image.asset("assets/images/back.png"),
+                GestureDetector(
+                  onTap: (){
+                    Navigator.of(context).pop(true);
+                  },
+                    child: Image.asset("assets/images/back.png")),
                 SizedBox(
                   width: 20,
                 ),
