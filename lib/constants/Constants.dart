@@ -7,3 +7,5 @@ var disclaimer_text =
             "you use this app";
 var scan_text=" Users camera for QR coode\n Once users can scan code fetch the establishment name\n"
                  "And show at top like original app";
+
+var covoid_protcol="You may need to show your COVID-19 digital\n certificate when you chceck in";
