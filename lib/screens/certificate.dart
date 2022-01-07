@@ -150,7 +150,7 @@ class Certificate extends StatelessWidget {
                             SizedBox(height: 10,),
 
                             Text(
-                              "DATE OF BITH",
+                              "DATE OF BIRTH",
                               style: TextStyle(
                                 fontSize: 15,
                                 color: Colors.black45,
